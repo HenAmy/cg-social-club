@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cg-social-club/static/css/main.e7720ab7.css",
+    "main.js": "/cg-social-club/static/js/main.734bf927.js",
+    "index.html": "/cg-social-club/index.html",
+    "main.e7720ab7.css.map": "/cg-social-club/static/css/main.e7720ab7.css.map",
+    "main.734bf927.js.map": "/cg-social-club/static/js/main.734bf927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.734bf927.js"
+  ]
+}
